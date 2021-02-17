@@ -1,15 +1,8 @@
-<!doctype html>
-<html>
-<head>
-  <title>Hgmhc-Archive</title>
-  <meta charset="utf-8">
-</head>
 <body>
-  <h1><a href="index.html">WEB</a></h1>
+  <h1><a href="index.md">Hgmhc's Archive</a></h1>
   <ol>
     <li><a href="1.html">Binary Search and Parametric Search</a></li>
     <li><a href="1.html">CSS</a></li>
-    <li><a href="1.html">JavaScript</a></li>
   </ol>
   <h2>요건 제목이냐?</h2>
   <p>hgmhc은 한글을 못해요</p>
